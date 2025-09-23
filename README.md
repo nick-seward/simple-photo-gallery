@@ -1,8 +1,32 @@
 # Simple Photo Gallery
 
-> Important: I'm currently very busy in my job, so I don't have much time to support this project. It seems there is some interest in it on a regular basis, so I'd be happy to give admin access to another developer that wants to maintain/develop the project further. Please get in touch with me if you are interested.
+<div align="center">
 
-### Check out the new [Project Page](https://haltakov.net/simple-photo-gallery)!
+# ✨ Simple Photo Gallery V2 is here! ✨
+
+---
+
+### 🌟 **What's new:**
+
+🏞️ **Modern Design** - Completely redesigned modernUI with  
+⚡ **Lightning Fast Performance** - Optimized for speed  
+🚀 **Modern Stack** - Full rewrite in TypeScript and a modern web stack  
+🗂️ **Nested Folders** - Support for nested folders  
+🎨 **Prepared for Theming** - Ready for themes and customizations
+
+### **What's the same:**
+
+🔓 **Free and Open-Source** - Free, MIT licensed, no hidden fees  
+🎯 **Super Simple to Use** - Generate galleries with 2 commands  
+📱 **Mobile-Friendly** - Responsive design for any device
+
+---
+
+### 🔥 **[Try it at simple.photo](https://simple.photo)** 🔥
+
+</div>
+
+### Check out the new [Project Page](https://simple.photo)!
 
 With Simple Photo Gallery you can create beautiful and simple photo galleries that help you tell your story. Check out the [example gallery](https://old.haltakov.net/simple-photo-gallery/gallery_usa_multi/).
 
